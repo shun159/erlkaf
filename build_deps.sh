@@ -10,7 +10,7 @@ fi
 
 REPO=https://github.com/edenhill/librdkafka.git
 BRANCH=master
-REV=8681f884020e880a4c6cda3cfc672f0669e1f38e
+REV=e72fde0
 
 function fail_check
 {
